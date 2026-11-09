@@ -1,5 +1,0 @@
-$kind: http-request
-description: ""
-url: http://localhost:3000/notify/1
-method: GET
-order: 2000
